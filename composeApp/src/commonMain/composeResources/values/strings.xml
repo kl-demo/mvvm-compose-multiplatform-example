@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Compose Multiplatform MVVM example</string>
+  <string name="navigate_to_app_info_screen">Navigate to App info screen</string>
+  <string name="app_info">App info</string>
+  <string name="hello">Hello %1$d, %2$s!</string>
+  <string name="error_occurred">An error occurred.</string>
+  <string name="update">Update</string>
+</resources>
